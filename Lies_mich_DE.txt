@@ -6,15 +6,15 @@
 This is a work in progress.
 
 
-Aktueller status
-==============
+Aktueller Status
+================
 
   6502:  100% fertig (außer einigen unbekannten Fehlern :)
   VIA:   95% fertig.
   AY:    99% fertig.
   Video: 100% fertig
   Tape:  99% fertig (.TAP, .ORT und .WAV werden unterstützt)
-  Disk:  Sektoren Lesen/Schreiben funktioniert. Lesen/Schreiben der Tracks geht 		 nicht.
+  Disk:  90% fertig (Single-Density-Modus wird nicht unterstützt)
 
 
 
@@ -221,7 +221,7 @@ Schlüssel
   Enter     - Führe Befehl aus
   Backspace - Gehe zurück
   Escape    - Verlasse Menüs
-  (oder benutz die Maus)
+  (oder benutze die Maus)
 
 
   Im Debugger/Monitor
@@ -333,7 +333,7 @@ und MacOS. Der beste Weg, mit ihnen fertig zu werden, ist die Installation eines
 
 Unter MacOS können Sie das in den "Systemeinstellungen", "Tastatur", "Eingabe Quellen". Klicken Sie auf das + und suchen Sie nach der britischen oder US-amerikanischen Tastatur.
 
-Unter Ubuntu können Sie dies im Menü System tun, indem Sie Präferenzen wählen und dann wählen Sie Tastatur. Wählen Sie im Dialogfeld Tastatureinstellungen die Option Layouts, und klicken Sie auf Hinzufügen.
+Unter Ubuntu können Sie dies im Menü System tun, indem Sie "Präferenzen" wählen und dann die Tastatur wählen. Wählen Sie im Dialogfeld "Tastatureinstellungen" die Option "Layouts", und klicken Sie auf "Hinzufügen".
 
 Eine bessere Lösung finden Sie unter "Visuelle Tastatur" hier unten.
 
